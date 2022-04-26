@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anusshahari
-- 👀 I’m interested in Marketing
-- 🌱 I’m currently learning AWS Cloud
-- 💞️ I’m looking to collaborate on Python related projects
+- 👀 I’m interested in CyberSecurity
+- 🌱 I’m currently for AWS SAA and Comptia sec+
+- 💞️ I’m looking to collaborate on Cybersecurity and cloud related projects
 - 📫 How to reach me DM me! :D
 
 <!---
